@@ -1,0 +1,9 @@
+#!/bin/bash
+
+
+echo "blah blah blah"
+
+
+#learning something new
+
+i am a fast learner
